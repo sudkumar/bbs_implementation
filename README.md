@@ -1,13 +1,18 @@
 # BBS
  Branch and Bound algorithm implementation in python language
 
+
+> It contains **_r\_tree_** submodule, so clone with - - recursive option
+
+	git clone --recursive https://github.com/sudkumar/bbs_implementation
+
 ## Usage
 
 	$ python skyline.py < queryfile > < sampleDataFile >
 
 > \# For example 
 
-	$ python skyline.py query2.txt sample2.txt
+	python skyline.py query2.txt sample2.txt
 
 ## Argument files
 
